@@ -37,6 +37,8 @@ body {
     opacity: 1;
   }
 }
+margin-left=auto;
+margin-right=auto;
 
 .fadetitle {
   animation-timing-function: ease-in;
